@@ -2,8 +2,11 @@
 Image segmentation on two different datasets using the unet architecture and attention layers.
 #### STARE Dataset
 This dataset contains images of retina and masks depicting blood vessels in the retina.
-![img](https://github.com/user-attachments/assets/639232e9-a66b-437a-805a-a185aad940df)
-
+<br>
+<img src="https://github.com/user-attachments/assets/0db4e8a3-d948-4181-b2f8-481f0ead92fd" width="80%">
 
 #### Autoencoder_imlementation_visualization
-![img (1)](https://github.com/user-attachments/assets/e02ff001-d86a-46a6-8f72-2740695f3c72)
+<br>
+<img src="https://github.com/user-attachments/assets/ea008efc-da31-4db6-8030-447d5273972a" width="40%">
+<br>
+<img src="https://github.com/user-attachments/assets/831d3924-4964-43ed-b0ff-253a832033b9" width="80%">
