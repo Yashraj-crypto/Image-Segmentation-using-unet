@@ -1,5 +1,5 @@
 # Image Segmentation 
-Image segmentation on two different datasets using the unet architecture and attention layers.
+Image segmentation on:
 #### STARE Dataset
 This dataset contains images of retina and masks depicting blood vessels in the retina.
 <br>
